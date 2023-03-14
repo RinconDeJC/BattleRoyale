@@ -1,0 +1,15 @@
+*.obj
+Debug/
+*.sln
+*.txt
+!BattleRoyale/save_files/initial_list.txt
+BattleRoyale/x64/
+BattleRoyale/Debug/
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.json
+include/*
+bin/*
+build/*
