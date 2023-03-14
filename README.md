@@ -23,7 +23,7 @@ formats. Professions are chosen randomly, although I think I introduced
 a way of altering this to cheat with my friends. They grant some 
 advantages or not, depending on how lucky you are with Profession 
 assignments. How Professions affect the game can mainly be seen in 
-`Probabulity.h` and `Probability.cpp` files.
+`Probability.h` and `Probability.cpp` files.
 
 ## Modes
 
@@ -62,7 +62,7 @@ users, but please refrain from using them in any malicious way (They
 are my friends :d).
 
 The only dependency it has is `rapijson`, a JSON library for C++ that 
-can be found on its [GitHub](https://github.com/Tencent/rapidjson/) page](https://github.com/Tencent/rapidjson/).
+can be found on its [GitHub page](https://github.com/Tencent/rapidjson/).
 You should download the source code and place it all in the proper 
 directory. 
 
